@@ -1,7 +1,7 @@
-# Project: Data Storytelling
+# Projeto: Data Storytelling
 
-**Project Description**
+**Descrição do Projeto**
 
-You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions — will you be able to maintain your success when the novelty of robot waiters wears off?
+Você decidiu abrir um pequeno café administrado por robôs em Los Angeles. O projeto é promissor, mas caro, então você e seus parceiros decidem tentar atrair investidores. Eles estão interessados ​​nas condições atuais do mercado – você conseguirá manter seu sucesso quando a novidade dos garçons robôs passar?
 
-You’re an analytics guru, so your partners have asked you to prepare some market research. You have open-source data on restaurants in LA.
+Você é um guru de análise, então seus parceiros pediram que você preparasse algumas pesquisas de mercado. Você tem dados de código aberto sobre restaurantes em Los Angeles.
